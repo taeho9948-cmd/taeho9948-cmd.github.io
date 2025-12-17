@@ -70,6 +70,28 @@ NBML은 연구에 집중하면서도 자유롭고 수평적인 분위기를 지�
 
 > *"NBML에서의 연구 경험은 여러분이 차세대 나노/바이오 전문가로 성장하는 데 든든한 밑거름이 될 것입니다."*
 ---
+<style>
+  /* 1. 전체 본문 글씨체와 크기 조절 */
+  body, p, li {
+    font-family: 'Noto Sans KR', sans-serif, -apple-system, BlinkMacSystemFont !important;
+    font-size: 14px !important;  /* 글자 크기 (기본 16px -> 14px로 줄임) */
+    line-height: 1.8 !important; /* 줄 간격 (넓어야 읽기 편함) */
+    color: #333333 !important;   /* 글자색 (완전 검정보다 진한 회색이 눈에 편함) */
+  }
+
+  /* 2. 제목(H1, H2) 스타일 조절 */
+  h1, h2, h3 {
+    color: #d2691e !important;   /* 동국대 오렌지색 계열로 포인트 */
+    font-weight: 900 !important; /* 제목을 더 두껍게 */
+  }
+
+  /* 3. 강조 박스 스타일 */
+  blockquote {
+    border-left: 5px solid #d2691e !important; /* 인용구 왼쪽 선 색상 */
+    background-color: #f9f9f9 !important;      /* 인용구 배경색 */
+    color: #555 !important;
+  }
+</style>
 **🚀 Join Us!**
 NBML은 열정 있는 학부 연구생 및 대학원생을 언제나 환영합니다.
 연구실 생활이나 진학에 대해 궁금한 점이 있다면 주저하지 말고 연락 주세요.
