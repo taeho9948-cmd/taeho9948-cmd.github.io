@@ -1,17 +1,19 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 동국대학교 나노바이오물질연구실 (Nano-Bio Materials Lab, NBML)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>교수님 연구실: 신공학관 10104호
+    <p>연구실: 신공학관 1127호, 1170호
+    <p>교수님 이메일: jmoh.nbml@gmail.com / jaemin.oh@dongguk.edu
+    <p>대학원생 컨택: taeho0408@naver.com
+    <p>Seoul, Republic of Korea
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +29,47 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Welcome to NBML 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**동국대학교 나노바이오물질연구실 (Nano Bio Material Laboratory)** 홈페이지에 오신 것을 환영합니다.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+저희 연구실은 **오제민 교수님**의 지도 하에 무기화학을 기반으로 한 **기능성 나노 소재**의 합성과 응용을 연구하고 있습니다. 특히 2차원 층상 구조체인 **LDH (Layered Double Hydroxide)**를 핵심 소재로 활용하여 바이오 의약 전달 시스템부터 차세대 에너지 저장 장치까지 폭넓은 융합 연구를 수행합니다.
+
+## 🔬 Research Interests
+
+저희는 크게 **바이오(Bio)**와 **에너지(Energy)** 두 가지 축을 중심으로 연구를 진행합니다.
+
+### 1. Bio-Nanomaterials (의약학 응용)
+* **약물 전달 시스템 (DDS):** 층상수산화물(LDH)의 층간 공간을 활용하여 항암제, 유전자 치료제 등을 안전하게 전달하는 나노 캡슐 연구.
+* **바이오 이미징 & 진단:** 질병의 조기 진단과 치료가 동시에 가능한 테라노스틱스(Theranostics) 소재 개발.
+
+### 2. Energy & Environmental Materials (에너지/환경)
+* **수전해 촉매:** OER/HER 촉매를 통한 수전해 촉매 응용 연구.
+* **이차전지 분리막 개발:** 차세대 이차전지의 분리막 및 전해질 응용 연구
+* **환경 촉매:** 수계 및 대기 오염 정화 및 유해 물질 흡착을 위한 친환경 나노 흡착제 개발.
+
+## 🧪 Lab Life
+
+NBML은 연구에 집중하면서도 자유롭고 수평적인 분위기를 지향합니다.
+
+* **🤝 Collaborative Environment:** 선후배 간의 자유로운 디스커션과 협업을 장려합니다.
+* **🏝 Work-Life Balance:** 효율적인 연구 시간 관리와 개인 시간을 존중합니다.
+* **✈️ Conferences:** 국내외 학술대회 참가를 적극 지원하여 다양한 연구 경험을 제공합니다.
+* **🎉 Events:** 정기적인 랩 세미나, 홈커밍데이, 워크숍 등을 통해 구성원 간의 유대감을 다집니다.
+
+---
+
+## 🎓 Alumni
+
+저희 연구실 졸업생들은 반도체, 배터리, 제약/바이오 등 다양한 분야의 핵심 인재로 활약하고 있습니다.
+
+### 주요 진출 분야
+* **Corporate:** 포스코, SK하이닉스 등 주요 대기업
+* **Academia:** 국내외 대학 교수 임용 및 박사후연구원(Post-Doc) 활동, 서울대학교 기초과학연구원 등
+* **Institute:** 국립암센터, 한국원자력연구원 등 정부출연연구소
+
+> *"NBML에서의 연구 경험은 여러분이 차세대 나노/바이오 전문가로 성장하는 데 든든한 밑거름이 될 것입니다."*
+---
+**🚀 Join Us!**
+NBML은 열정 있는 학부 연구생 및 대학원생을 언제나 환영합니다.
+연구실 생활이나 진학에 대해 궁금한 점이 있다면 주저하지 말고 연락 주세요.
