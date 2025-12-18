@@ -19,7 +19,7 @@ nav_order: 3
   </div>
 </div>
 ---
-
+---
 ## Post Doctoral Researcher
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
@@ -31,7 +31,8 @@ nav_order: 3
     <p>📧 mani.ramumala@gmail.com</p>
   </div>
 </div>
-
+---
+---
 ## Ph.D. Candidates
 
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
@@ -50,7 +51,7 @@ nav_order: 3
 </div>
 
 ---
-
+---
 ## Master Candidates
 
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
@@ -67,3 +68,4 @@ nav_order: 3
   <br>
   <a href="mailto:jasonk214@naver.com">📧 Email</a> jasonk214@naver.com
 </div>
+---
