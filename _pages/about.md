@@ -72,7 +72,7 @@ NBML은 열정 있는 학부 연구생 및 대학원생을 언제나 환영합�
 <style>
   /* 1. 전체 본문 글씨체와 크기 조절 */
   body, p, li {
-    font-family: 'Noto Sans KR', sans-serif, -apple-system, BlinkMacSystemFont !important;
+    font-family: 'Noto Sans KR', sans-serif, -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", sans-serif !important;
     font-size: 14px !important;  /* 글자 크기 (기본 16px -> 14px로 줄임) */
     line-height: 1.8 !important; /* 줄 간격 (넓어야 읽기 편함) */
     color: #333333 !important;   /* 글자색 (완전 검정보다 진한 회색이 눈에 편함) */
