@@ -36,14 +36,14 @@ nav_order: 3
 ## 🎓 Ph.D. Candidates
 
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
-  <img src="../assets/img/taeho.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
+  <img src="../assets/img/Taeho.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>김태호 (Taeho Kim)</b>
   <br>
   <a href="mailto:taeho0408@naver.com">📧 Email</a>
 </div>
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
-  <img src="../assets/img/serim.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
+  <img src="../assets/img/Serim.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>오세림 (Serim Oh)</b>
   <br>
