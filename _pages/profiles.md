@@ -8,7 +8,7 @@ nav_order: 7
 
 profiles:
   - align: right
-    image: 김태호 증사.jpg
+    image: Taeho.jpg
     content: member_Kim_Tae_Ho.md
     image_circular: false
     more_info: >
@@ -16,7 +16,7 @@ profiles:
       <p>Email: taeho0408@naver.com</p>
 
   - align: left
-    image: 오세림 증사.jpg
+    image: Serim.jpg
     content: member_Oh_Serim.md
     image_circular: false
     more_info: >
