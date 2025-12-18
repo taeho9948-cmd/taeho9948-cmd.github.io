@@ -9,6 +9,7 @@ description: Curriculum Vitae of Prof. Jae-Min Oh
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="/assets/img/jaemin.jpg" alt="Profile Photo" width="150px" style="border-radius: 10px; border: 1px solid #ddd;">
 </div>
+
 # 오제민 (Jae-Min Oh)
 **Professor**
 Department of Energy & Materials Engineering
