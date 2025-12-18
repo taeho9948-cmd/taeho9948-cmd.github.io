@@ -40,14 +40,14 @@ nav_order: 3
   <br>
   <b>김태호 (Taeho Kim)</b>
   <br>
-  <a href="mailto:taeho0408@naver.com">📧 Email</a>
+  <a href="mailto:taeho0408@naver.com">📧 Email</a> taeho0408@naver.com
 </div>
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/Serim.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>오세림 (Serim Oh)</b>
   <br>
-  <a href="mailto:rimi829@naver.com">📧 Email</a>
+  <a href="mailto:rimi829@naver.com">📧 Email</a> rimi829@naver.com
 </div>
 
 ---
@@ -59,12 +59,12 @@ nav_order: 3
   <br>
   <b>강윤 (Yoon Kang)</b>
   <br>
-  <a href="mailto:kgyoon206@naver.com">📧 Email</a>
+  <a href="mailto:kgyoon0206@naver.com">📧 Email</a> kgyoon0206@naver.com
 </div>
 <div style="display: inline-block; width: 200px; text-align: center; margin: 15px; vertical-align: top;">
   <img src="../assets/img/student2.jpg" width="150px" height="150px" style="object-fit: cover; border-radius: 50%; border: 1px solid #eee;">
   <br>
   <b>김재성 (Jason Kim)</b>
   <br>
-  <a href="mailto:jasonk214@naver.com">📧 Email</a>
+  <a href="mailto:jasonk214@naver.com">📧 Email</a> jasonk214@naver.com
 </div>
