@@ -28,7 +28,7 @@ Dongguk University, Seoul, Korea
 * **Ph.D. in Chemistry** (2004)
   * Seoul National University, Seoul, Republic of Korea
   * *Thesis:* Novel bio-inorganic nanohybrid for drug delivery and DNA code system
-  * (새로운 약물 전달 및 DNA 코드 시스템으로서의 생-무기 나노하이브리드)
+  (새로운 약물 전달 및 DNA 코드 시스템으로서의 생-무기 나노하이브리드)
 
 * **B.S. in Chemistry** (2000)
   * Seoul National University, Seoul, Republic of Korea
