@@ -3,13 +3,14 @@ layout: about
 title: Home
 permalink: /
 subtitle: 동국대학교 나노바이오물질연구실 (Nano-Bio Materials Lab, NBML)
-<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  <img src="assets/img/로고.png" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.8;">
-</div>
 profile:
   align: right
   image: jaemin.jpg
   image_circular: false # crops the image to make it circular
+
+<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="assets/img/로고.png" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.8;">
+</div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
