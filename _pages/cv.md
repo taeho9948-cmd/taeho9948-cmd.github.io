@@ -1,5 +1,11 @@
 ---
-layout: CV
+layout: page
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 2
+description: Curriculum Vitae of Prof. Jae-Min Oh
+---
 
 - title: General Information
   type: map
@@ -94,4 +100,3 @@ layout: CV
         - 나노-바이오 신소재 디자인 및 합성
         - 나노물질 안전성 평가를 위한 나노-바이오 상호작용 평가
         - 기능성 나노물질을 활용한 패키징 소재 개발
----
