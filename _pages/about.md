@@ -69,6 +69,10 @@ NBML은 열정 있는 학부 연구생 및 대학원생을 언제나 환영합�
 연구실 생활이나 진학에 대해 궁금한 점이 있다면 주저하지 말고 연락 주세요.
 
 ---
+<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="assets/img/로고.png" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.8;">
+</div>
+
 <style>
   /* 1. 전체 본문 글씨체와 크기 조절 */
   body, p, li {
